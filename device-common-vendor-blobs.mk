@@ -36,4 +36,5 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libwsbm.so:system/vendor/lib/libwsbm.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libva.so:system/vendor/lib/libva.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-android.so:system/vendor/lib/libva-android.so \
-    vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/firmware/bcmdhd_aob.cal:system/vendor/firmware/bcmdhd_aob.cal
