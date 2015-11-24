@@ -37,5 +37,28 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libva.so:system/vendor/lib/libva.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-android.so:system/vendor/lib/libva-android.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/hw/audio.primary.saltbay.so:system/vendor/lib/hw/audio.primary.saltbay.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libauddriver.so:system/vendor/lib/libauddriver.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libaudiohalutils.so:system/vendor/lib/libaudiohalutils.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libaudioresample.so:system/vendor/lib/libaudioresample.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libaudwrapper.so:system/vendor/lib/libaudwrapper.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libdsp.so:system/vendor/lib/libdsp.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libevent-listener.so:system/vendor/lib/libevent-listener.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libgti.so:system/vendor/lib/libgti.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libgtiproxy.so:system/vendor/lib/libgtiproxy.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libgtisrv.so:system/vendor/lib/libgtisrv.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libinterface-provider-lib.so:system/vendor/lib/libinterface-provider-lib.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libparameter.so:system/vendor/lib/libparameter.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libproperty.so:system/vendor/lib/libproperty.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libutaos.so:system/vendor/lib/libutaos.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libdsp-subsystem.so:system/lib/parameter-framework-plugins/Audio/libdsp-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libimc-subsystem.so:system/lib/parameter-framework-plugins/Audio/libimc-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libpower-subsystem.so:system/lib/parameter-framework-plugins/Audio/libpower-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libtinyalsactl-subsystem.so:system/lib/parameter-framework-plugins/Audio/libtinyalsactl-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libtinyamixer-subsystem.so:system/lib/parameter-framework-plugins/Audio/libtinyamixer-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libuta-subsystem.so:system/lib/parameter-framework-plugins/Audio/libuta-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Fs/libfs-subsystem.so:system/lib/parameter-framework-plugins/Fs/libfs-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/firmware/fw_sst_119a.bin:system/vendor/firmware/fw_sst_119a.bin \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/bcmdhd_aob.cal:system/vendor/firmware/bcmdhd_aob.cal \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/BCM4335C0_003.001.009.0043.0227.hcd:system/vendor/firmware/BCM4335C0_003.001.009.0043.0227.hcd
