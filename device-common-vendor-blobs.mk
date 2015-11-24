@@ -33,9 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libmultidisplay.so:system/vendor/lib/libmultidisplay.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libvpp_setting.so:system/vendor/lib/libvpp_setting.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libcorkscrew.so:system/vendor/lib/libcorkscrew.so \
-    vendor/dell/venue3x40-common/proprietary/vendor/lib/libva.so:system/vendor/lib/libva.so \
-    vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-android.so:system/vendor/lib/libva-android.so \
-    vendor/dell/venue3x40-common/proprietary/vendor/lib/libva-tpi.so:system/vendor/lib/libva-tpi.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/hw/audio.primary.saltbay.so:system/vendor/lib/hw/audio.primary.saltbay.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libauddriver.so:system/vendor/lib/libauddriver.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libaudiohalutils.so:system/vendor/lib/libaudiohalutils.so \
