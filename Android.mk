@@ -1,0 +1,11 @@
+LOCAL_PATH:= $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libvpp_setting
+LOCAL_MODULE_OWNER := dell
+LOCAL_SRC_FILES := proprietary/vendor/lib/libvpp_setting.so
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR_SHARED_LIBRARIES)
+include $(BUILD_PREBUILT)

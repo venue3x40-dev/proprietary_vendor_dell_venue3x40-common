@@ -32,6 +32,10 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libhwcwidi.so:system/vendor/lib/libhwcwidi.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libmultidisplay.so:system/vendor/lib/libmultidisplay.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libvpp_setting.so:system/vendor/lib/libvpp_setting.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmixvbp.so:system/vendor/lib/libmixvbp.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmixvbp_h264.so:system/vendor/lib/libmixvbp_h264.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmixvbp_mpeg4.so:system/vendor/lib/libmixvbp_mpeg4.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmixvbp_vp8.so:system/vendor/lib/libmixvbp_vp8.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/hw/audio.primary.saltbay.so:system/vendor/lib/hw/audio.primary.saltbay.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libauddriver.so:system/vendor/lib/libauddriver.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libaudiohalutils.so:system/vendor/lib/libaudiohalutils.so \
@@ -55,5 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libuta-subsystem.so:system/lib/parameter-framework-plugins/Audio/libuta-subsystem.so \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Fs/libfs-subsystem.so:system/lib/parameter-framework-plugins/Fs/libfs-subsystem.so \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/fw_sst_119a.bin:system/vendor/firmware/fw_sst_119a.bin \
+    vendor/dell/venue3x40-common/proprietary/vendor/firmware/signed_msvdx_fw_mrfld_b0v1.bin:system/vendor/firmware/signed_msvdx_fw_mrfld_b0v1.bin \
+    vendor/dell/venue3x40-common/proprietary/vendor/firmware/topazhp_fw_b0.bin:system/vendor/firmware/topazhp_fw_b0.bin \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/bcmdhd_aob.cal:system/vendor/firmware/bcmdhd_aob.cal \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/BCM4335C0_003.001.009.0043.0227.hcd:system/vendor/firmware/BCM4335C0_003.001.009.0043.0227.hcd
