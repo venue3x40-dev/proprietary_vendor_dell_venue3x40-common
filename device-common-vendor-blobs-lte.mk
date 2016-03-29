@@ -19,4 +19,13 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/hw/gps.saltbay.so:system/vendor/lib/hw/gps.saltbay.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libmmgrcli.so:system/vendor/lib/libmmgrcli.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libmmgr_cnx.so:system/vendor/lib/libmmgr_cnx.so \
-    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmmgr_utils.so:system/vendor/lib/libmmgr_utils.so
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmmgr_utils.so:system/vendor/lib/libmmgr_utils.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/bin/mmgr:system/vendor/bin/mmgr \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libdx_cc7.so:system/vendor/lib/libdx_cc7.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libinterface-provider.so:system/vendor/lib/libinterface-provider.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmamgr-xmm.so:system/vendor/lib/libmamgr-xmm.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmcdr.so:system/vendor/lib/libmcdr.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libmodemupdate.so:system/vendor/lib/libmodemupdate.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/librapid-ril-core.so:system/vendor/lib/librapid-ril-core.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/librapid-ril-util.so:system/vendor/lib/librapid-ril-util.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/libtcs.so:system/vendor/lib/libtcs.so
