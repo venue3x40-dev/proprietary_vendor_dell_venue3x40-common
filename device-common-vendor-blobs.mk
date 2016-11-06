@@ -70,7 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libinterface-provider-lib.so:system/vendor/lib/libinterface-provider-lib.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libparameter.so:system/vendor/lib/libparameter.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libproperty.so:system/vendor/lib/libproperty.so \
-    vendor/dell/venue3x40-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
     vendor/dell/venue3x40-common/proprietary/vendor/lib/libutaos.so:system/vendor/lib/libutaos.so \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libdsp-subsystem.so:system/lib/parameter-framework-plugins/Audio/libdsp-subsystem.so \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libimc-subsystem.so:system/lib/parameter-framework-plugins/Audio/libimc-subsystem.so \
