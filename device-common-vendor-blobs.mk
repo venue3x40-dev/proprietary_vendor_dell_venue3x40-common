@@ -78,6 +78,7 @@ PRODUCT_COPY_FILES += \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libtinyamixer-subsystem.so:system/lib/parameter-framework-plugins/Audio/libtinyamixer-subsystem.so \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Audio/libuta-subsystem.so:system/lib/parameter-framework-plugins/Audio/libuta-subsystem.so \
     vendor/dell/venue3x40-common/proprietary/lib/parameter-framework-plugins/Fs/libfs-subsystem.so:system/lib/parameter-framework-plugins/Fs/libfs-subsystem.so \
+    vendor/dell/venue3x40-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/fw_sst_119a.bin:system/vendor/firmware/fw_sst_119a.bin \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/signed_msvdx_fw_mrfld_b0v1.bin:system/vendor/firmware/signed_msvdx_fw_mrfld_b0v1.bin \
     vendor/dell/venue3x40-common/proprietary/vendor/firmware/topazhp_fw_b0.bin:system/vendor/firmware/topazhp_fw_b0.bin \
